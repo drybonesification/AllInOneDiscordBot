@@ -1,5 +1,6 @@
 {
   "_comment": "prefix is what triggers the bot to listen, ie !play",
   "prefix": "!",
-  "token": "YourTokenHere"
+  "bot_token": "YourBotTokenHere",
+  "ghify_token": "YourGiphyTokenHere"
 }
