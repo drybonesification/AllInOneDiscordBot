@@ -1,0 +1,6 @@
+{
+  "_comment": "prefix is what triggers the bot to listen, ie !play",
+  "prefix": "!",
+  "bot_token": "NTQyNTcwMzM3NDA2Mjg3ODkw.Xry0nQ.SfIfXl6V1OcWESf8RHkTmLCPeB8",
+  "giphy_token": "26qwaPCZGRzcsJ3rVOjUQTA3DC0rRh7I"
+}
